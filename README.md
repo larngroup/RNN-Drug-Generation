@@ -5,7 +5,7 @@ In drug discovery, deep learning algorithms have emerged to become an effective 
 
 
 ## General Workflow
-[alt](workflow.jpg)
+[alt](Workflow.jpg)
 
 ## Requirements
 *  CUDA 10.1
