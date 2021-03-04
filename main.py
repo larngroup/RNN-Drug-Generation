@@ -57,11 +57,11 @@ if __name__ == '__main__':
     for dataset in datasets:    
         if dataset == 'biogenic':
             vocab = vocab1('vocab_stereo.txt')
-            path = 'C:/Users/aluno/Desktop/Beatriz/Generator_paper/'
+            path = './datasets/'
             filename = 'biogenic_filtered.smi.txt'
         elif dataset == 'ChEMBL':
             vocab = vocab2('Vocab.txt')
-            path = 'C:\\Users\\aluno\\Desktop\\Beatriz\\Generator\\'
+            path = './datasets/'
             filename = 'ChEMBL_filtered'
     
         file = path + filename
