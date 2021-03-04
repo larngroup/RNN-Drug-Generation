@@ -5,7 +5,7 @@ In drug discovery, deep learning algorithms have emerged to become an effective 
 
 
 ## General Workflow
-[alt](https://github.com/larngroup/RNN-Drug-Generation/blob/main/Workflow.jpg)
+![alt](https://github.com/larngroup/RNN-Drug-Generation/blob/main/Workflow.jpg)
 
 ## Requirements
 *  CUDA 10.1
